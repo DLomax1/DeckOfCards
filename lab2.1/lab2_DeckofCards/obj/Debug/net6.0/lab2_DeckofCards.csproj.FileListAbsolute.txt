@@ -1,0 +1,15 @@
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\bin\Debug\net6.0\lab2_DeckofCards.exe
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\bin\Debug\net6.0\lab2_DeckofCards.deps.json
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\bin\Debug\net6.0\lab2_DeckofCards.runtimeconfig.json
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\bin\Debug\net6.0\lab2_DeckofCards.dll
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\bin\Debug\net6.0\lab2_DeckofCards.pdb
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.csproj.AssemblyReference.cache
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.AssemblyInfoInputs.cache
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.AssemblyInfo.cs
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.csproj.CoreCompileInputs.cache
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.dll
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\refint\lab2_DeckofCards.dll
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.pdb
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\lab2_DeckofCards.genruntimeconfig.cache
+C:\Users\Student141\Documents\1260\labs\lab2.1\lab2_DeckofCards\obj\Debug\net6.0\ref\lab2_DeckofCards.dll
